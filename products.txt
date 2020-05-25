@@ -1,0 +1,6 @@
+cocacola 0 2.5
+water 3 1.6
+kitkat 8 2.4
+bounty 6 3.3
+mars 9 3.7
+cocacola is empty
